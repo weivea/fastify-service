@@ -1,0 +1,20 @@
+{
+  "name": "fastify-service",
+  "version": "1.0.1",
+  "description": "在复杂业务场景下用于做业务逻辑封装的一个抽象层, 保持业务逻辑的独立性",
+  "main": "lib/fastify-service.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "service"
+  ],
+  "author": "weijianli",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.2"
+  }
+}
